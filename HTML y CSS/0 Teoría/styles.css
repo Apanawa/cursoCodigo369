@@ -1,0 +1,12 @@
+.padre{
+    width: 200px;
+    height: 200px;
+    background: red;
+    position: relative;
+}
+
+.hijo{
+    width: 50px;
+    height: 50px;
+    background: purple;
+}
